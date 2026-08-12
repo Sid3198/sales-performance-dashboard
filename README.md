@@ -2,7 +2,7 @@
 
 An interactive Sales Performance Dashboard built in Power BI, using a retail sales dataset. Connects and transforms raw sales data, models a proper date table, and visualizes revenue trends, regional performance, and category breakdowns.
 
-![Sales Performance Dashboard](screenshots/dashboard_overview.png)
+![Sales Performance Dashboard](dashboard_overview.png)
 
 ## Objective
 
